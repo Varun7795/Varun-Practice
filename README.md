@@ -1,2 +1,3 @@
 # Varun-Practice
-This is my first Git-Repository
+This is my first Git-Repository.
+By Author Varun Jadoun.
